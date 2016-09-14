@@ -1,0 +1,6 @@
+D:\Office\Workspace\HelloWorldCode\HelloWorldCode\bin\Debug\HelloWorldCode.exe.config
+D:\Office\Workspace\HelloWorldCode\HelloWorldCode\bin\Debug\HelloWorldCode.exe
+D:\Office\Workspace\HelloWorldCode\HelloWorldCode\bin\Debug\HelloWorldCode.pdb
+D:\Office\Workspace\HelloWorldCode\HelloWorldCode\obj\Debug\HelloWorldCode.csprojResolveAssemblyReference.cache
+D:\Office\Workspace\HelloWorldCode\HelloWorldCode\obj\Debug\HelloWorldCode.exe
+D:\Office\Workspace\HelloWorldCode\HelloWorldCode\obj\Debug\HelloWorldCode.pdb
